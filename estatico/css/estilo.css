@@ -1,0 +1,16 @@
+.inner {
+    padding: 10px !important;
+}
+
+html,
+body {
+  background-image: url("http://wall.rimbuz.com/wp-content/uploads/Laptop-Wallpapers.png") !important;
+}
+
+h1, .h1 {
+    color: white !important;
+}
+
+.lead {
+    text-shadow: 1px 1px 1px black;
+}
